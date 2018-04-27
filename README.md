@@ -1,7 +1,8 @@
 # Fully-Synched Cross-Platform To-Do List
 
-A simple, quickly put-together example of a full-stack application using Golang, MongoDB and React Native. The mobile client uses React Native to deploy on both iOS and Android while the REST API is written in Golang and uses MongoDB for persistence. 
+A simple, quickly put-together example of a full-stack application using Golang, MongoDB and React Native. The mobile client uses React Native to deploy on both iOS and Android, while the REST API is written in Golang with a MongoDB database for persistence. 
 
+<img src="img/todolist-img.png" width="100">
 
 ## Backend
 
